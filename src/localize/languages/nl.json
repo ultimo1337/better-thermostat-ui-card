@@ -3,6 +3,22 @@
     "version": "versie",
     "current": "huidig"
   },
+  "editor": {
+    "card": {
+      "climate": {
+        "disable_window": "Schakel raam uit",
+        "disable_summer": "Schakel zomer uit",
+        "disable_eco": "Schakel eco uit",
+        "disable_heat": "Schakel hitte uit",
+        "disable_off": "Schakel \"uitschakelen\" uit",
+        "disable_menu": "Schakel menu uit",
+        "disable_battery_warning": "Schakel batterij waarschuwing uit",
+        "disable_buttons": "Schakel plus/min knoppen uit",
+        "eco_temperature": "Eco temperatuur",
+        "set_current_as_main": "Verwissel doel met huidige temperatuur"
+      }
+    }
+  },
   "extra_states": {
     "window_open": "Raam open",
     "night_mode": "Nacht modus",
